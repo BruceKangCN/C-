@@ -1,4 +1,4 @@
-﻿// ConsoleApplication1.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
+// ConsoleApplication1.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
 
 #include <iostream>
@@ -14,5 +14,6 @@ int main()
 	cout << a << "的ASCII编码为："<<(int)a << endl;
 	cout << endl << endl << endl << endl;
 	system("pause");
+	return 0;
 }
 
